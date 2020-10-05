@@ -1,3 +1,6 @@
+# DEPRECATION NOTICE
+This repository is deprecated and all the work has been moved to https://github.com/asgardio/asgardio-dotnet-oidc-sdk.
+
 # identity-samples-dotnet
 
 These are WSO2 Identity Server-related samples written using .NET technologies. Currently, the samples listed below are 
